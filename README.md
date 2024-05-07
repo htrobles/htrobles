@@ -4,7 +4,7 @@
 
 **Email:** hjt.robles@gmail.com
 
-**Bio:** I am a Code Ninja 🥷 specializing in building Seamless User Experiences and Crafting Digital Solutions. I am a Full-stack Developer with a strong foundation in web development, design, and a passion for continuous learning.
+**Bio:** I am a Code Ninja specializing in building Seamless User Experiences and Crafting Digital Solutions. I am a Full-stack Developer with a strong foundation in web development, design, and a passion for continuous learning.
 
 **Professional Summary:**
 I am a dedicated web developer with expertise in building web applications using popular frameworks. I am passionate about continuous learning and staying updated with industry trends. My background as a former graphic designer gives me a keen eye for aesthetics, ensuring that my work is both functional and visually appealing.
