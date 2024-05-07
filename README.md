@@ -1,6 +1,7 @@
 ### Hi, I'm Hector! 👋
 
 **Location:** London, Ontario
+
 **Email:** hjt.robles@gmail.com
 
 **About Me:** I am a former Tech Lead at Theoria Medical. Growing up, I really enjoyed creating custom campaigns in Starcraft. The Starcraft Map Editor might be my first programming tool 😄. Aside from coding, I also enjoy drawing. I actually started out as a graphics designer in 2009 while taking college. In 2020, I finally decided to be a developer. The process was hard but I really love what I'm doing. I love turning my designs into something interactive. Eventually, I ended up becoming a Full Stack Developer. I'm hoping to work on more projects that allows me to create more interactive UI.
