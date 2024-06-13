@@ -24,7 +24,7 @@ I am a dedicated web developer with expertise in building web applications using
 **Professional Experience:**
 - Tech Lead at Theoria Medical, Michigan, USA (August 2021 – Present)
 - Full Stack Developer at Theoria Medical, Michigan, USA (June 2020 – August 2021)
-- Graphic and Web Designer at Referral Engine, North Wollongong, Australia (December 2016 – August 2020)
+- Graphic and Web Designer at Referral Engine, North Wollongong, Australia (December 2016 – October 2019)
 - Creative Services Officer at East West Banking Corporation, Taguig City, Philippines (June 2016 – December 2016)
 - Multimedia Designer at Globe Telecom, Taguig City, Philippines (February 2015 – June 2016)
 
